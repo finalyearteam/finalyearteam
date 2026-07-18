@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Centered, Glossy Team Intro Banner/Logo -->
-  <img src="FINAL_YEAR_TEAM_GLOSSY.jpg" alt="Final Year Team Intro - GCOERC" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <img src="BECO.jpg" alt="Final Year Team Intro - GCOERC" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 
   <br><br>
 
