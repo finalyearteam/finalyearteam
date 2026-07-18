@@ -1,9 +1,6 @@
 <div align="center" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(15px); -webkit-backdrop-filter: blur(15px); border: 1px solid rgba(255, 255, 255, 0.2); border-radius: 20px; padding: 30px; box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37); transition: all 0.3s ease;">
   
-  <!-- Circular Team Logo with Glossy Border -->
-  <img src="BECO.jpg" alt="Team Logo" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 4px solid rgba(255, 255, 255, 0.3); box-shadow: 0 0 20px rgba(0, 255, 255, 0.4);" />
-  
-  <br><br>
+
 
   <h1>🚀 Final Year Team</h1>
   
