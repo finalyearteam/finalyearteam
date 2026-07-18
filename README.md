@@ -40,7 +40,6 @@ Our project development and research are strictly focused on the following areas
 ---
 
 ## ⚡ Tech Stack & Tools
-*(You can edit these to match the exact technologies your team is using!)*
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
