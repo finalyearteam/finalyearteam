@@ -1,11 +1,8 @@
 <div align="center">
-  <!-- Team Banner -->
-  <img src="FINAL YEAR TEAM.jpg" alt="Final Year Team Banner" width="100%" />
   
-  <br><br>
 
   <!-- Team Logo -->
-  <img src="BECO.jpg" alt="Team Logo" width="200" style="border-radius: 15px;" />
+  <img src="BECO.jpg" alt="Team Logo" width="200" style="border-radius: 50%;" />
 
   <h1>🚀 Final Year Team</h1>
   
